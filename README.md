@@ -1,7 +1,7 @@
 #ArcMenu & RayMenu
 ##ArcMenu
 
-An android custom view which looks like the menu in [Path 2.0](https://path.com/) (for iOS).
+NLLD
 
 ![Preview](https://dl.dropbox.com/u/11369687/preview0.png)
 ![Preview](https://dl.dropbox.com/u/11369687/preview1.png)
